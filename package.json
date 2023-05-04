@@ -5,7 +5,9 @@
    "version": "0.1.0",
  
    "private": true,
-   "homepage":"https://HossamEidSaleh.github.io/temp-react",
+ 
+   "homepage": "https://HossamEidSaleh.github.io/proj-react/",
+ 
    "dependencies": {
  
     
@@ -54,8 +56,13 @@
  
    "scripts": {
  
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
+    
+   "predeploy": "npm run build",
+ 
+    
+   "deploy": "gh-pages -d build",
+ 
+    
    "start": "react-scripts start",
  
     
